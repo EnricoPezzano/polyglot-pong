@@ -15,3 +15,6 @@ TODOs:
 
 
 ### Note that this is still work in progress ⚠️
+
+<!-- https://www.youtube.com/watch?v=TUE_HSgQiG0 -->
+<!-- https://www.youtube.com/watch?v=BDIrYfzlULE -->
