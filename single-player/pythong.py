@@ -25,8 +25,7 @@ def on_button_pressed_b():
 input.on_button_pressed(Button.B, on_button_pressed_b)
 
 def on_forever():
-    global score, interval, interval_step, ball_x, ball_y, ball_dx, 
-ball_dy, bar_x, in_game
+    global score, interval, interval_step, ball_x, ball_y, ball_dx, ball_dy, bar_x, in_game
     score = 0
     interval = 500
     interval_step = 10
