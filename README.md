@@ -10,7 +10,7 @@ Another possibility is offered from microbit's website: https://makecode.microbi
 - upload either the python or javascript or hex code 
 - execute it via the web simulator 
 
-### To execute Pong in Single-PLayer (having already Rust installed)
+### To execute Pong in Multi-PLayer (having already Rust installed)
 - cd /polyglot-pong/terminal\ multiplayer/pong
 - cargo build
 - cargo run
