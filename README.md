@@ -7,7 +7,7 @@ Final project for ICDD course (Informatica per la Creatività, Didattica e Divul
 ### To execute Pong in Single-PLayer
 Connect your microbit device via USB and copy there the .hex code.
 Another possibility is offered from microbit's website: https://makecode.microbit.org
-- upload one of the python or javascript or hex code 
+- upload one of the python, javascript or hex code 
 - execute it via the web simulator 
 
 ### To execute Pong in Multi-PLayer (having already Rust installed)
