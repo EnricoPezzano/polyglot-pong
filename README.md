@@ -1,5 +1,5 @@
 # PolyglotPong
-## This is an activity to introduce some concepts/differences of programming languages to code a Pong game (hence PolyglotPong)
+## This is an activity meant to introduce some concepts/differences of programming languages to code a Pong game (hence PolyglotPong)
 
 Final project for ICDD course (Informatica per la Creatività, Didattica e Divulgazione).
 "Spiegazione Attività.pdf" is meant to be just a trace to follow for the activity live presentation using the "Presentazione.pdf" slides
